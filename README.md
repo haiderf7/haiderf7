@@ -34,10 +34,12 @@ My plans now is to finish with frontend and then go backend so i can be a fullst
 - [HTML]()
 - [CSS]()
 - [JS]()
+- [React]()
 - [Adobe XD]()
 - [WordPress]()
 - [Hotjar]()
 - [Netlify]()
+
 
 This is my social links if you want to contact me:
 
